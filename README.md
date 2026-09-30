@@ -1,128 +1,92 @@
-# Hi, I'm Erick Moura
+# Hi, I'm Erick Moura 👋
 
-I'm a Software Development student at Brigham Young University–Idaho and a junior full-stack developer focused on building practical web applications with JavaScript and TypeScript.
+I'm a Software Development student at Brigham Young University–Idaho and a junior full-stack developer focused on building practical web applications with **JavaScript and TypeScript**.
 
-My main stack includes **TypeScript, JavaScript, React, Next.js, Node.js, and PostgreSQL**. I also have experience with C#, ASP.NET Core, Blazor, Entity Framework Core, Kotlin, and SQL.
+My main focus is **React/Next.js, Node.js, and PostgreSQL**, with additional experience in C#, ASP.NET Core, Blazor, and other technologies.
 
 ## About Me
 
-- 🎓 Software Development student at BYU–Idaho, expected to graduate in 2026
+- 🎓 Software Development student at BYU–Idaho, graduating in 2026
 - 💻 Preparing for junior full-stack and web development opportunities
-- 🚀 Focused on JavaScript/TypeScript, React, Next.js, Node.js, and PostgreSQL
 - 🧩 I enjoy solving problems and turning ideas into useful applications
-- 🌱 Currently strengthening my full-stack development skills and technical independence
+- 🌱 Currently strengthening my technical independence and full-stack development skills
 - 🤝 I value teamwork, communication, organization, and continuous learning
-- 🌎 Based in Brazil and able to communicate in Portuguese and English
+- 🌎 Based in Brazil | Portuguese and English
 
-## Technologies and Tools
+## 🛠 Skills & Technologies
 
-### Frontend
+| Category | Technologies |
+| --- | --- |
+| **Frontend** | `TypeScript` `JavaScript` `React` `Next.js` `Tailwind CSS` `HTML` `CSS` |
+| **Backend** | `Node.js` `Express.js` `C#` `ASP.NET Core` `Blazor` |
+| **Database & ORM** | `PostgreSQL` `SQL` `Prisma` `Entity Framework Core` |
+| **Tools & Platforms** | `Git` `GitHub` `Vercel` |
+| **Development** | `REST APIs` `Authentication` `Zod` `CRUD` `Responsive Design` |
 
-- TypeScript
-- JavaScript
-- React
-- Next.js
-- Tailwind CSS
-- HTML
-- CSS
-- Responsive Web Design
-
-### Backend
-
-- Node.js
-- Express.js
-- Next.js Server Actions
-- REST APIs
-- C#
-- ASP.NET Core
-- Blazor
-
-### Databases & ORM
-
-- PostgreSQL
-- Prisma
-- SQL
-- Entity Framework Core
-
-### Tools & Practices
-
-- Git and GitHub
-- Authentication and Authorization
-- CRUD Development
-- Relational Database Design
-- Input Validation
-- Object-Oriented Programming
-- Responsive UI Development
-- Scrum and Trello
-
-## Featured Projects
+## 🚀 Featured Projects
 
 ### Inventa — Inventory Management System
 
-My main individual portfolio project: a full-stack inventory and business management web application designed to help users organize products, categories, and stock operations.
+My main individual portfolio project: a full-stack inventory management application designed to help users manage products, categories, stock operations, and inventory activity.
 
-**Main features:**
+**Built with:** `Next.js` `TypeScript` `Tailwind CSS` `Prisma` `PostgreSQL`
 
-- Built with Next.js, TypeScript, Tailwind CSS, Prisma, and PostgreSQL
-- User registration, login, logout, and protected application routes
-- Product and category management
+**Highlights:**
+
+- Secure registration, login, logout, and protected application routes
+- Product and category management with validation and protected server-side operations
 - Stock entry and removal with movement history
-- Low-stock alerts
+- Low-stock monitoring and inventory alerts
 - Search and filtering
 - Dashboard with inventory metrics and recent activity
 - Archived product management
-- Responsive internal interface
-- Deployed with Vercel
+- Responsive interface
+- Production deployment with Vercel
 
-[View the repository](https://github.com/erickandreww/inventa)
+**[Live Demo](https://inventa-chi.vercel.app/)** · **[Repository](https://github.com/erickandreww/inventa)**
 
 ---
 
 ### SilverRoadCars — Car Rental Web Application
 
-A full-stack car rental application developed as a four-person academic team project. The system manages vehicles, staff users, clients, bookings, rental requests, and vehicle maintenance.
+A full-stack car rental system developed as a **four-person academic team project** for managing vehicles, clients, staff users, bookings, rental requests, and maintenance.
 
-**Main contributions:**
+**Built with:** `JavaScript` `Node.js` `Express.js` `PostgreSQL` `EJS`
 
-- Developed features using JavaScript, Node.js, Express.js, PostgreSQL, EJS, HTML, and CSS
-- Worked on CRUD functionality and backend routes
-- Worked with relational database queries
-- Helped develop responsive administrative pages
-- Collaborated with the team using Scrum practices and Trello
+**My work included:**
 
-[View the repository](https://github.com/erickandreww/silverroadcars-car-rental)
+- Implementing and improving full-stack application features
+- Working with backend routes and relational database operations
+- Contributing to CRUD workflows and administrative pages
+- Building and refining responsive interfaces
+- Collaborating with the team using Git, Scrum practices, and Trello
+
+**[Repository](https://github.com/erickandreww/silverroadcars-car-rental)**
 
 ---
 
 ### HobbyHub — Hobby Collections Tracker
 
-A full-stack web application created to help users organize and share items from their hobbies and personal collections.
+A full-stack web application for organizing and sharing hobby and personal collection items.
 
-**Main features:**
+**Built with:** `C#` `Blazor` `ASP.NET Core` `Entity Framework Core` `SQL`
 
-- Developed with C#, Blazor, ASP.NET Core, Entity Framework Core, and SQL
+**Highlights:**
+
 - User authentication and role-based access
-- Create, view, update, and delete collection posts
-- Image management and relational data
-- Responsive interface for desktop and mobile devices
+- CRUD functionality for collection posts
+- Image management
+- Relational data
+- Responsive desktop and mobile interface
 
-[View the repository](https://github.com/erickandreww/hobby-collections-tracker)
+**[Live Demo](https://hct-project-cse325-byudev15-hde7bdbcegabh5bq.brazilsouth-01.azurewebsites.net/)** · **[Repository](https://github.com/erickandreww/hobby-collections-tracker)**
 
-## Current Focus
+## 🎯 Current Focus
 
-I'm currently preparing for my first professional opportunity as a **Junior Full-Stack Developer**, with a focus on JavaScript/TypeScript technologies.
+I'm preparing for my first professional opportunity as a **Junior Full-Stack Developer**, with a focus on JavaScript/TypeScript, React/Next.js, Node.js, and PostgreSQL.
 
-My current goals include:
+I'm currently focused on strengthening my technical independence, building portfolio projects, and preparing for technical interviews.
 
-- Strengthening my React, Next.js, Node.js, and PostgreSQL skills
-- Improving my ability to design and implement solutions independently
-- Practicing technical interviews and explaining my projects clearly
-- Continuing to build production-style applications
-- Growing through real-world development experience and collaboration
+## 📫 Let's Connect
 
-## Let's Connect
-
-- [LinkedIn](https://www.linkedin.com/in/erick-a-moura)
-- [Email](mailto:erick.andrew.moura@gmail.com)
-
-Thanks for visiting my profile!
+[LinkedIn](https://www.linkedin.com/in/erick-a-moura) · [Email](mailto:erick.andrew.moura@gmail.com)
